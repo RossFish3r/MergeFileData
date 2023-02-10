@@ -1,4 +1,4 @@
-
+/*Includes*/
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -7,6 +7,7 @@ using namespace std;
 
 int main(){
 
+  /*initialize the arrays to store lists*/
     vector<string> listOne;
     vector<string> listTwo;
     string item;
